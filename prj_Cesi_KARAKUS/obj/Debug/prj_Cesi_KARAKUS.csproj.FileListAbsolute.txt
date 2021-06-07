@@ -1,0 +1,17 @@
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\bin\Debug\prj_Cesi_KARAKUS.exe.config
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\bin\Debug\prj_Cesi_KARAKUS.exe
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\bin\Debug\prj_Cesi_KARAKUS.pdb
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.csprojAssemblyReference.cache
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.Form1.resources
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.Form2.resources
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.Form3.resources
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.Form4.resources
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.Properties.Resources.resources
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.csproj.GenerateResource.cache
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.csproj.CoreCompileInputs.cache
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.exe
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.pdb
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.csproj.CopyComplete
+C:\Users\karakusy\Desktop\prj_Cesi_KARAKUS\prj_Cesi_KARAKUS\obj\Debug\prj_Cesi_KARAKUS.Form5.resources
